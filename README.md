@@ -11,3 +11,6 @@ To answer these questions, agent-based models are widely applied to simulate hum
 
 1. Using the data collected from multiple metropolitan areas, you are challenged to develop a robust and generalizable model to predict the individual's daily trip destination based on easy-collected information and features. 
 2. Using the models trained on the data before, predict the trip destination for a new metropolitan area.
+
+
+> For a detailed explanation of the rules (issue writing, PR writing) for team members who are not familiar with GitHub and our organization, please refer [here](https://github.com/DAU-BigDataTeams/GitGuide.git).
