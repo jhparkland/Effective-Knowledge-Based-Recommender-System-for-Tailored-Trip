@@ -1,4 +1,4 @@
-# Background
+# Background 
 
 With the massive growth of th internet, a new paradigm of recommender systems(RS)is interduced in various real time applications.  
 In the research for better RS’s, especially in the travel domain, the
@@ -47,3 +47,10 @@ The obtained results of the developed RS are found to be proficient by means of 
 - [문화역세권 ](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=c63b8541-2153-4da6-8c8f-b09972ec544b)
 
 - [지하철 노선별 관광지](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=5da758b2-a29a-4fab-89e2-6676a19df1b0)
+
+----
+
+<div align = center>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"/> <p>  
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=JetBrains&logoColor=white"/>
+</div>
