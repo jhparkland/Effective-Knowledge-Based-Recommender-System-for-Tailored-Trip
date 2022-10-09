@@ -34,22 +34,16 @@ The obtained results of the developed RS are found to be proficient by means of 
 
 # REFERENCES
 
-[관련 논문](https://www.igi-global.com/article/effective-knowledge-based-recommender-system-for-tailored-multiple-point-of-interest-recommendation/219272)
+- [관련 논문](https://www.igi-global.com/article/effective-knowledge-based-recommender-system-for-tailored-multiple-point-of-interest-recommendation/219272)
 
-[국내 지역별 관광명소 데이터]
-https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=1ec19f06-035e-49f3-8c5d-ff8d2d2829a7
+- [국내 지역별 관광명소 데이터](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=1ec19f06-035e-49f3-8c5d-ff8d2d2829a7)
 
-[국내 여행지역 관심도]
-https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=359f0000-4129-11ec-a107-3b8bd6a15b10
+- [국내 여행지역 관심도](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=359f0000-4129-11ec-a107-3b8bd6a15b10)
 
-[문화예술행사 축제 정보]
-https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=21566e2b-d9ec-44c6-9843-1dd52e4bd946
+- [문화예술행사 축제 정보](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=21566e2b-d9ec-44c6-9843-1dd52e4bd946)
 
-[국내지역별 성별연령별방문지역별관문지역별부산방문현황]
-https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=4d404a6d-116d-4c81-a79d-2041f81c65ce
+- [국내지역별 성별연령별방문지역별관문지역별부산방문현황](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=4d404a6d-116d-4c81-a79d-2041f81c65ce)
 
-[문화역세권 ]
-https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=c63b8541-2153-4da6-8c8f-b09972ec544b
+- [문화역세권 ](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=c63b8541-2153-4da6-8c8f-b09972ec544b)
 
-[지하철 노선별 관광지]
-https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=5da758b2-a29a-4fab-89e2-6676a19df1b0
+- [지하철 노선별 관광지](https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=5da758b2-a29a-4fab-89e2-6676a19df1b0)
